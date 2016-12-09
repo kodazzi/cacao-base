@@ -1,0 +1,19 @@
+{
+  "name": "kodazzi/cacao-base",
+  "description": "Cacao Component",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Jorge Gaitan",
+      "email": "kodazzi31@gmail.com"
+    }
+  ],
+  "minimum-stability": "stable",
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "Kodazzi\\CacaoBase\\": "src/"
+    }
+  }
+}
